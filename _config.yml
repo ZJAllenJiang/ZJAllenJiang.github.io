@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter "ZJAllenJiang"
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wei Jiang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Computer Science Master student at Boston University"
   location         : "Boston"
   employer         :
